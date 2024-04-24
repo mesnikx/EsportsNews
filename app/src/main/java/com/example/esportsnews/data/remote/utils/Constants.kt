@@ -1,4 +1,4 @@
-package com.example.esportsnews.common.utils
+package com.example.esportsnews.data.remote.utils
 
 class Constants {
     companion object {
